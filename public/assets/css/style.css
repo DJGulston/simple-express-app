@@ -1,0 +1,16 @@
+* {
+    background-color: black;
+    color: white;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#page-title {
+    background-color: rgb(59, 59, 59);
+    color: whitesmoke;
+    padding: 30px;
+}
+
+#page-paragraph {
+    margin: 30px;
+}
